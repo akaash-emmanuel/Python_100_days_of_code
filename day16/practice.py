@@ -1,4 +1,7 @@
-# OOPS in python: 
+# how to create objects from classes
+
+
+# OOPS in python:
 # splitting a large problem into smaller problems and is worked upon individually, OOPs takes it further by allowing multiple features that simplify relationships in code
 # it allows creation of objects that have certain set of attributes and a certain set of methods that are true to itself.
 # objects are created from class
